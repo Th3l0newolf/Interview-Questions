@@ -1,1 +1,81 @@
 
+<h3 align="center"> 📝 Interview-Questions at Advance Level </h3>
+
+## Questions
+
+
+- **What is perimeter-based and data-based protection ?**
+- **What is Difference between VPN & VLAN ?**
+- **Waht are various types of Data breach ?**
+- **How can identity theft be prevented ?**
+- **Explain CSRF & security Misconfiguration ?**
+- **What is data exfiltraion ?**
+- **What is Diffrence between stream ciper and block cipher ?**
+- **What is cipher text ?**
+- **What are steps to setup a firewall?**
+- **Explain Diffrent types of firewall in details ?**
+- **What is Diffrence between HIDS & NIDS ?**
+- **whats are HTTP error codes ? name few ?**
+- **What is diffrence between information protection and information assurance ?**
+- **What isforwad Secrecy and how does it work ?**
+- **What is Diffrence between Diffe hellman and RSA ?**
+- **What is diffrence between Encryption and Hashing ?**
+- **Whta are several Indicators of compromise that an organization should look for ?**
+- **How to protect data in transit VS rest ?**
+- **What is Log parsing ?**
+- **What is log Aggeration? what are common ways to aggerate logs for SIEM ?**
+- **What is log Enrichment?**
+- **What is log Normalization and Categorization ?**
+- **What is SOAR ?**
+- **What are top benefits of SOAR ?**
+- **What is Cognitive Cyber Security ?**
+- **Explain SOC team Hierarchy ?**
+- **What are Diffrent SOC models ?**
+- **What is SLA ?**
+- **Why do we need SOC team ?**
+- **What do you document in an Inicdent ?**
+- **What ticketing tool you have worked on ?**
+- **Apart from SIEM what other tools have you worked on ?**
+- **What are diffrent dashboard you genrate ?**
+- **Explain the incident response/process lifecycle ?**
+- **Explain SIEM Implimentation phases ?**
+- **Explain SOC workflow ?**
+- **What do you document in Shift handover ?**
+- **Difference between Blue-team and red-team ?**
+- **what is SOP/playbook/runbook?**
+- **How do you handel P1 incident in SOC ?**
+- **What will you do if there are 200 alets tiggred at once ?**
+- **Explain Trojan Infection process ?**
+- **what is Cyberkill chain ?**
+- **What are Risk management phases ?**
+- **What is PKI ?**
+- **Take me though cyber security incident handling process ?**
+- **How will you secure server ?**
+- **What is diffrence between symmetric and asymmertic Encryption ?**
+- **What is Mitre Att&ck Frame work ?**
+- **What is session Hijacking & how it is diffrent from session fixiation ?**
+- **Assue you are head of security in you organiztion , a breach happen in your org how will you handle it ?**
+- **What is Zero day attack ?**
+- **What is AAA ?**
+- **What are splunk ports ?**
+- **How will you forwad logs and add log source ?**
+- **What command you will you use to check packetloss or not and the connection is working fine or not ?**
+- **How will you detect WAF or firewall ?**
+- **Explain Splunk Architecture ?**
+- **How do you provide email security ?**
+- **What types of long you will recive everyday ?**
+- **What is inbound and outbound traffic ?**
+- **What steps you will take in company as Security Analyst , in case of Ransoware attack ?**
+- **what tupe of patching tool you are familiar with ?**
+- **How do you Continously monitor a file in linux, you want to the file changes being displayed in screen frequently ?**
+- **What is web Cache poisoning ?**
+- **How you Detect Ransomware though SIEM ?**
+- **What is difference in Find & locate in linux ?**
+- **How does OpenVPN works ?**
+- **What is RCE on WebSite ?**
+- **What is kerberosting ?**
+- **What are diffrent types of VLAN ?**
+- **If IP is provided to you what will be your approch to do Vulnerability Assesment ?**
+- **How to avoid looping while sending packets from one switch to another ?**
+- **How you stay updated with currenty threats,vulerabilities, security issues, Data breach ?**
+
