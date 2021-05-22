@@ -1,0 +1,48 @@
+1. What is secret-key cryptography?
+2. What is public-key cryptography?
+3. What is a session key?
+4. What is RSA?
+5. How fast is RSA?
+6. What would it take to break RSA?
+7. Are strong primes necessary for RSA?
+8. How large a module (key) should be used in RSA?
+9. How large should the primes be?
+10. How is RSA used for authentication in practice? What are RSA digital signatures?
+11. What are the alternatives to RSA?
+12. Is RSA currently in use today?
+13. What are DSS and DSA?
+14. What is difference between DSA and RSA?
+15. Is DSA secure?
+16. What are special signature schemes?
+17. What is a blind signature scheme?
+18. What is a designated confirmer signatures?
+19. What is a fail-stop signature scheme?
+20. What is a group signature?
+21. What is blowfish?
+22. What is SAFER?
+23. What is FEAL?
+24. What is Shipjack?
+25. What is stream cipher?
+26. What is the advantage of public-key cryptography over secret-key cryptography?
+27. What is the advantage of secret-key cryptography over public-key cryptography?
+28. What is Message Authentication Code (MAC)?
+29. What is a block cipher?
+30. What are different block cipher modes of operation?
+31. What is a stream cipher? Name a most widely used stream cipher.
+32. What is one-way hash function?
+33. What is collision when we talk about hash functions?
+34. What are the applications of a hash function?
+35. What is trapdoor function?
+36. Cryptographically speaking, what is the main method of building a shared secret over a public medium?
+37. What’s the difference between Diffie-Hellman and RSA?
+38. What kind of attack is a standard Diffie-Hellman exchange vulnerable to?
+39. What’s the difference between encoding, encryption, and hashing?
+40. In public-key cryptography you have a public and a private key, and you often perform both encryption and signing functions. Which key is used for which function?
+41. What’s the difference between Symmetric and Asymmetric encryption?
+42. If you had to both encrypt and compress data during transmission, which would you do first, and why?
+43. What is SSL and why is it not enough when it comes to encryption?
+44. What is salting, and why is it used?
+45. What are salted hashes?
+46. What is the Three-way handshake? How can it be used to create a DOS attack?
+47. What’s more secure, SSL or HTTPS?
+48. Can you describe rainbow tables?
