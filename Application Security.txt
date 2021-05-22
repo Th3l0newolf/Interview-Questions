@@ -12,3 +12,48 @@
 12. What are the common defenses against XSS?
 13. You are remoted in to a headless system in a remote area. You have no physical access to the hardware and you need to perform an OS installation. What do you do?
 14. On a Windows network, why is it easier to break into a local account than an AD account?
+15. What is information security and how is it achieved?
+16. What are the core principles of information security?
+17. What is non-repudiation (as it applies to IT security)?
+18. What is the relationship between information security and data availability?
+19. What is a security policy and why do we need one?
+20. What is the difference between logical and physical security? Can you give an example of both?
+21. What’s an acceptable level of risk?
+22. What are the most common types of attacks that threaten enterprise data security?
+23. What is the difference between a threat and a vulnerability?
+24. Can you give me an example of common security vulnerabilities?
+25. Are you familiar with any security management frameworks such as ISO/IEC 27002?
+26. What is a security control?
+27. What are the different types of security control?
+28. Can you describe the information lifecycle? How do you ensure information security at each phase?
+29. What is Information Security Governance?
+30. What are your professional values? Why are professional ethics important in the information
+security field?
+31. Are open-source projects more or less secure than proprietary ones?
+32. Who do you look up to within the field of Information Security? Why?
+33. Where do you get your security news from?
+34. What’s the difference between symmetric and public-key cryptography?
+35. What kind of network do you have at home?
+36. What are the advantages offered by bug bounty programs over normal testing practices?
+37. What are your first three steps when securing a Linux server?
+38. What are your first three steps when securing a Windows server?
+39. Who’s more dangerous to an organization, insiders or outsiders?
+40. Why is DNS monitoring important?
+41. How would traceroute help you find out where a breakdown in communication is?
+42. Why would you want to use SSH from a Windows PC?
+43. How would you find out what a POST code means?
+44. What is the difference between a black hat and a white hat?
+45. What do you think of social networking sites such as Facebook and LinkedIn?
+46. Why are internal threats often more successful than external threats?
+47. Why is deleted data not truly gone when you delete it?
+48. What is the Chain of Custody?
+49. How would you permanently remove the threat of data falling into the wrong hands?
+50. What is exfiltration?
+51. How do you protect your home wireless access point?
+52. If you were going to break into a database-based website, how would you do it?
+53. What is the CIA triangle?
+54. What is the difference between information protection and information assurance?
+55. How would you lock down a mobile device?
+56. What is the difference between closed-source and open-source? Which is better?
+57. What is your opinion on hacktivist groups such as Anonymous?
+
