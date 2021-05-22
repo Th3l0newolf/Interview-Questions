@@ -1,0 +1,14 @@
+1. Describe the last program or script that you wrote. What problem did it solve?
+2. Can you briefly discuss the role of information security in each phase of the software development lifecycle?
+3. How would you implement a secure login field on a high traffic website where performance is a consideration?
+4. What are the various ways to handle account brute forcing?
+5. What is cross-site request forgery?
+6. How does one defend against CSRF?
+7. If you were a site administrator looking for incoming CSRF attacks, what would you look for?
+8. What’s the difference between HTTP and HTML?
+9. How does HTTP handle state?
+10. What exactly is cross-site scripting?
+11. What’s the difference between stored and reflected XSS?
+12. What are the common defenses against XSS?
+13. You are remoted in to a headless system in a remote area. You have no physical access to the hardware and you need to perform an OS installation. What do you do?
+14. On a Windows network, why is it easier to break into a local account than an AD account?
