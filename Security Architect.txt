@@ -1,0 +1,26 @@
+. Explain data leakage and give examples of some of the root causes.
+. What are some effective ways to control data leakage?
+. Describe the 80/20 rules of networking.
+. What are web server vulnerabilities and name a few methods to prevent web server attacks?
+. What are the most damaging types of malwares?
+. What’s your preferred method of giving remote employees access to the company network and are there any weaknesses associated to it?
+. List a couple of tests that you would do to a network to identify security flaws.
+. What kind of websites and cloud services would you block?
+. What type of security flaw is there in VPN?
+. What is a DDoS attack?
+. Can you describe the role of security operations in the enterprise?
+. What is layered security architecture? Is it a good approach? Why?
+. Have you designed security measures that span overlapping information domains? Can you give me a brief overview of the solution?
+. How do you ensure that a design anticipates human error?
+. How do you ensure that a design achieves regulatory compliance?
+. What is capability-based security? Have you incorporated this pattern into your designs? How?
+. Can you give me a few examples of security architecture requirements?
+. Who typically owns security architecture requirements and what stakeholders contribute?
+. What special security challenges does SOA present?
+. What security challenges do unified communications present?
+. Do you take a different approach to security architecture for a COTS vs a custom solution?
+. Have you architected a security solution that involved SaaS components? What challenges did you face?
+. Have you worked on a project in which stakeholders choose to accept identified security risks that worried you? How did you handle the situation?
+. You see a user logging in as root to perform basic functions. Is this a problem?
+. What is data protection in transit vs data protection at rest?
+. You need to reset a password-protected BIOS configuration. What do you do?
