@@ -78,4 +78,8 @@
 - **If IP is provided to you what will be your approch to do Vulnerability Assesment ?**
 - **How to avoid looping while sending packets from one switch to another ?**
 - **How you stay updated with currenty threats,vulerabilities, security issues, Data breach ?**
+- **Explain Weaponization in Cyber Kill chain ?**
+- **What is Delivery in cyber kill chain ?**
+- **What is Difference  between Red Teaming and Penetration Testing ?**
+- **Explain any Vulnerability You know with respect to Cyber Kill Chain and MITRE ATT&CK Framework ?**
 
