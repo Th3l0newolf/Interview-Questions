@@ -1,0 +1,26 @@
+. What is an IT security audit?
+. What is an RFC?
+. What type of systems should be audited?
+. Have you worked in a virtualized environment?
+. What is the most difficult part of auditing for you?
+. Describe the most difficult auditing procedure you’ve implemented.
+. What is change management?
+. What types of RFC or change management software have you used?
+. What do you do if a rollout goes wrong?
+. How do you manage system major incidents?
+. How do you ask developers to document changes?
+. How do you compare files that might have changed since the last time you looked at them?
+. Name a few types of security breaches.
+. What is a common method of disrupting enterprise systems?
+. What are some security software tools you can use to monitor the network?
+. What should you do after you suspect a network has been hacked?
+. How can you encrypt email to secure transmissions about the company?
+. What document describes steps to bring up a network that’s had a major outage?
+. How can you ensure backups are secure?
+. What is one way to do a cross-script hack?
+. How can you avoid cross script hacks?
+. How do you test information security?
+. What is the difference between black box and white box penetration testing?
+. What is a vulnerability scan?
+. In pen testing what’s better, a red team or a blue team?
+. Why would you bring in an outside contractor to perform a penetration test?
