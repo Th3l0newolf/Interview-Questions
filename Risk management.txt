@@ -1,0 +1,19 @@
+1. Is there an acceptable level of risk?
+2. How do you measure risk? Can you give an example of a specific metric that measures information security risk?
+3. Can you give me an example of risk trade-offs (e.g. risk vs cost)?
+4. What is incident management?
+5. What is business continuity management? How does it relate to security?
+6. What is the primary reason most companies haven’t fixed their vulnerabilities?
+7. What’s the goal of information security within an organization?
+8. What’s the difference between a threat, vulnerability, and a risk?
+9. If you were to start a job as head engineer or CSO at a Fortune 500 company due to the previous guy being fired for incompetence, what would your priorities be? [Imagine you start on day one with no knowledge of the environment]
+10. As a corporate information security professional, what’s more important to focus on: threats or vulnerabilities?
+11. If I’m on my laptop, here inside my company, and I have just plugged in my network cable. How many packets must leave my NIC in order to complete a traceroute to [twitter.com](http://twitter.com/)?
+12. How would you build the ultimate botnet?
+13. What are the primary design flaws in HTTP, and how would you improve it?
+14. If you could re-design TCP, what would you fix?
+15. What is the one feature you would add to DNS to improve it the most?
+16. What is likely to be the primary protocol used for the Internet of Things in 10 years?
+17. If you had to get rid of a layer of the OSI model, which would it be?
+18. What is residual risk?
+19. What is the difference between a vulnerability and an exploit?
