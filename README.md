@@ -1,6 +1,6 @@
 # List Of Frequlenty Asked Questions 
 
-<h3 align="center"> 📝 Interview-Questions for Various Cyber Security Roles </h3>
+ **📝 Interview-Questions for Various Cyber Security Roles** 
 
 **These Questions will be Classified According to Difficulty of Question into Sub-categories**
    
