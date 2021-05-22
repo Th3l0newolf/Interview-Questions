@@ -38,3 +38,9 @@
 - **How do you secure mobile devices across Enterprise Networks ?**
 - **Explain SSL Encryption ?**
 - **What is Reomte Desktop Protocol(RDP) ?**
+- **What is SSL certificate ? How you get it & what data is needed to get it ?**
+- **Can you do Penetration testing at layer 3 & 4 ?**
+- **What is use of port 8080 apart from local proxy ?**
+- **Why you are using DNS content filtering ? when it can be done by firewall ?**
+- **State diffence between Proxy and VPN ?**
+- **What is Meta data and How you view it ?**
