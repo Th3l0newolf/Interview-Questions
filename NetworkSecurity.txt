@@ -1,0 +1,25 @@
+1) What port does ping work over?
+2) Do you prefer filtered ports or closed ports on your firewall?
+3) How exactly does traceroute/tracert work at the protocol level?
+4) What are Linux’s strengths and weaknesses vs. Windows?
+5) What is a firewall? And provide an example of how a firewall can be bypassed by an outsider to
+access the corporate network ?
+6) Besides firewalls, what other devices are used to enforce network boundaries?
+7) What is the role of network boundaries in information security?
+8) What does an intrusion detection system do? How does it do it?
+9) What is a honeypot? What type of attack does it defend against?
+10) What technologies and approaches are used to secure information and services deployed on cloud computing infrastructure?
+11) What information security challenges are faced in a cloud computing environment?
+12) Can you give me an overview of IP multicast?
+13) How many bits do you need for a subnet size?
+14) What is packet filtering?
+15) Can you explain the difference between a packet filtering firewall and an application layer firewall?
+16) What are the layers of the OSI model?
+17) How would you login to Active Directory from a Linux or Mac box?
+18) What is an easy way to configure a network to allow only a single computer to login on a particular jack?
+19) What are the three ways to authenticate a person?
+20) You find out that there is an active problem on your network. You can fix it, but it is out of your jurisdiction. What do you do?
+21) How would you compromise an “office workstation” at a hotel?
+22) What is worse in firewall detection, a false negative or a false positive? And why?
+23) How would you judge if a remote server is running IIS or Apache?
+24) What is the difference between an HIDS and a NIDS?
