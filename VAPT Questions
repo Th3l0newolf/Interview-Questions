@@ -1,76 +1,38 @@
-VAPT Interview Questions
-
 1.What is ping used for ?
-
 2.What is difference between ping & tracert ?
-
 3.what is vulnerability Assessment ?
-
 4.What is difference between Vulnerability Assessment & Vulnerbaility managgement ?
-
 5.Which are Most Commanly used tools for Vulnerability Assessment ?
-
 6.can vulnerbaility assessment done manually , if yes what tools will be used ?
-
 7.what is difference between Blackbox and Greybox/WhiteBox Vulnerbaility Assessment ?
-
 8.In nessus how will you identify Scan has been successfuly completed ?
-
 9.what is authenticated scan ?
-
 10.To telnet a linux server what port will you use ?
-
 11.To telnet a Windows server what port will you use ?
-
 12.If you want to perform a VA scan on server what type of data will be need prior to scanning ?
-
 13.List the types of Windows server commanly used in Enterprise enviroment ?
-
 14.How will you check the give server is live & reachable to you ?
-
 15.what types devices are prensent in Infrastructe across orgainzation ?
-
 16.If you performing Vulnerbaility Assessment activity externally , what are things you need to do before initiaing Scan ?
-
 17.If you have All Deatils for a sever which are required for scanning still you cannot scan it , what is the reason & can you find root cause of it?
-
 18.How Credentials of servers are supposed to handled during performing VA/PT activity?
-
 19.How do you determine the severity of a discovered vulnerability? 
-
 20.What is an example of a time when a vulnerability assessment is commonly performed?
- 
 21.What is an example of an online resource you use to help you as a vulnerability researcher?
-
 22.what types of vulnerability research tools you use, but which one is your favorite?
-
 23.How would you handle an engineer downgrading the severity of a vulnerability just to extend the SLA?
-
 24.How to troubleshoot a connectivity issue between two servers?
-
 25.What is SLA ?
-
 26.How do you identify False postive vulnerability ?
-
 27.What are common network vulnerability identification steps? 
-
 28.What are common ports and services to focus on during penetration testing?
-
 29.What tools do you use for Network Penetration testing?
-
 30.What are common levels of network penetration testing?
-
 31.How do you penetrate into an organization network in Internal penetration testing?
-
 32.What port does ping work over?
-
 33.Do you prefer filtered ports or closed ports on your firewall?
-
 34.What are SSL Cypher suits ?
-
 35.What is TLS ?
-
 36.how many types of authentication methods available in nessus ?
-
 37.How do you make sure you don't miss any critical vulnerbailities while performing VA Scan ?
 
